@@ -10,5 +10,10 @@ Java exercises and learning projects developed during my Computer Science degree
 Each file is named by content and exercise number (e.g., `C11ex01`).
 
 ## 🛠️ Built with
-- Java
+- Java ([JDK version])
 
+## 🚀 How to run
+```bash
+javac C11ex01.java
+java C11ex01
+```
